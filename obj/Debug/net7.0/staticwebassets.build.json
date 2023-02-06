@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i377pApH2q3MipKZc198gefzLJCx/me1pMzBXSXCa6I=",
+  "Source": "myBotConnector",
+  "BasePath": "_content/myBotConnector",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
